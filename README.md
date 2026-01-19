@@ -11,14 +11,14 @@ SIMPEL (Sistem Informasi Pembelajaran Elektronik) is a web-based Learning Manage
 
 ## Features
 
-### 🔑 Authentication
+### Authentication
 - Secure login for Admin, Teacher, and Student
 - Profile management
 - Logout functionality
 
 ---
 
-### 🛠️ Admin Features
+### Admin Features
 - Create and manage announcements
 - Manage subjects / courses (create, view, edit, delete, filter)
 - Create and manage discussion forums
@@ -38,7 +38,7 @@ SIMPEL (Sistem Informasi Pembelajaran Elektronik) is a web-based Learning Manage
 
 ---
 
-### 👨‍🏫 Teacher Features
+###  Teacher Features
 - View announcements
 - Create and manage subjects / courses
 - Create discussion forums
@@ -51,7 +51,7 @@ SIMPEL (Sistem Informasi Pembelajaran Elektronik) is a web-based Learning Manage
 
 ---
 
-### 👩‍🎓 Student Features
+###  Student Features
 - View announcements
 - Join subjects / courses
 - Access learning materials
